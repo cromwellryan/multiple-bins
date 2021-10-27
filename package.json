@@ -1,0 +1,16 @@
+{
+  "name": "wreckupOPR8e6l",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "bin1": "./bins/bin1.js",
+    "bin2": "./bins/bin2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
